@@ -1,4 +1,4 @@
-# `SToSC`: Python Tools for Scientific Computing :cookie:
+# `SToSC`: Scientific Tools for Scientific Computing :cookie:
 
 > A set of tools for scientific computing in Python.
 
