@@ -1,6 +1,0 @@
-Training completed.
-Best action for state 'greeting': say_hello
-Best action for state 'question': answer_question
-Best action for state 'complaint': apologize
-Best action for state 'feedback': thank_user
-Best action for state 'farewell': say_goodbye
